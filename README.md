@@ -6,9 +6,9 @@ To Dos before using the automation:
   4.	Add your account as contributor in this repository using 'cti.grpapps-hospitality@corptech.it' account
   5.	Create your own branch (DO NOT EDIT IN MAIN BRANCH)
   6.	On your file explorer, choose your saved location to store the repository. Example: "C:\Users\JD\Documents\VSCode"
-  7.	Create a new folder and rename it. Example: "Business-Central-Automation"
+  7.	Create a new folder and rename it. Example: "Health-Checker"
   8.	Right click the created folder and click 'Open in Terminal'
-  9.	Clone the repository - 'git clone https://github.com/FBSC-Hospitality-Team/Daily-Health-Checker.git'
+  9.	Clone the repository - 'git clone https://github.com/FBSC-Hospitality-Team/Health-Checker.git'
   10.	Open VSCode
   11.	Open the created folder, should contain the folder contents
   12.	Switch branch by clicking the below branch 'Main' to your created branch
